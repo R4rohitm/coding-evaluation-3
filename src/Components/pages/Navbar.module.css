@@ -1,0 +1,17 @@
+.navbar {
+  margin: auto;
+  height: 70px;
+  width: 90%;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  background-color: rgb(208, 131, 112);
+}
+
+.navbar div {
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}

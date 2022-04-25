@@ -1,0 +1,28 @@
+.login {
+  margin-top: 40px;
+  margin: auto;
+  padding: 40px;
+  height: 400px;
+  width: 50%;
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+}
+
+.divv {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.divv:first-child {
+  display: flex;
+  justify-content: center;
+  margin-left: 29px;
+}
+
+/* .login:first-child {
+  display: flex;
+  flex-direction: column;
+} */
